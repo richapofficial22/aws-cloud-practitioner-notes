@@ -10,5 +10,5 @@
 - Compute in the Cloud
 - Auto Scaling and Load Balancing
 - <img width="1384" height="746" alt="Screenshot 2026-02-02 at 6 14 18 PM" src="https://github.com/user-attachments/assets/d64b28fd-9111-48ae-a1ac-e6ea1a416fd1" />
-<img width="1384" height="748" alt="Screenshot 2026-02-02 at 6 18 22 PM" src="https://github.com/user-attachments/assets/dedb79a2-149b-4589-b0e5-6ac4d0004a30" />
+- <img width="1384" height="748" alt="Screenshot 2026-02-02 at 6 18 22 PM" src="https://github.com/user-attachments/assets/dedb79a2-149b-4589-b0e5-6ac4d0004a30" />
 
