@@ -16,13 +16,17 @@
 - Exploring Compute Services
 - <img width="1314" height="620" alt="Screenshot 2026-02-03 at 12 44 04 PM" src="https://github.com/user-attachments/assets/528858f0-36c4-4f58-98e3-694aa0c6e154" />
 - <img width="1333" height="604" alt="Screenshot 2026-02-03 at 4 04 14 PM" src="https://github.com/user-attachments/assets/fc0bbcdb-eae3-46e3-b3c1-44817aec13e6" />
-<img width="1376" height="797" alt="Screenshot 2026-02-03 at 3 58 30 PM" src="https://github.com/user-attachments/assets/fee6679c-c135-4cae-a2ee-b2c90880ec8b" />
-<img width="1378" height="803" alt="Screenshot 2026-02-03 at 3 59 03 PM" src="https://github.com/user-attachments/assets/f33cf3f5-749f-4b50-b18e-4cc10ea85b58" />
+- <img width="1376" height="797" alt="Screenshot 2026-02-03 at 3 58 30 PM" src="https://github.com/user-attachments/assets/fee6679c-c135-4cae-a2ee-b2c90880ec8b" />
 ## Day 4 - 5th Feb 2026
 - Finished module 4/13 ✅
 - Going Global
 - Choosing AWS regions, Diving deeper into Golbal Infrastructure, Infrastructure and Automation
 - <img width="963" height="484" alt="Screenshot 2026-02-05 at 3 25 02 PM" src="https://github.com/user-attachments/assets/e1e19fd9-27d1-4f19-ae1f-a3d63a4676de" />
 - <img width="1370" height="701" alt="Screenshot 2026-02-05 at 3 25 20 PM" src="https://github.com/user-attachments/assets/0b816898-3975-4de7-a145-1169646ef55e" />
-- <img width="1373" height="764" alt="Screenshot 2026-02-05 at 3 25 44 PM" src="https://github.com/user-attachments/assets/3c447afa-df35-4702-827e-4493423b2150" />
-
+## Day 5 - 6th Feb 2026
+- Finished module 5/13 ✅
+- Networking
+- Networking components in AWS Cloud, Organising AWS Cloud Resources, Subnets, Security Groups, Network Access Control Lists, Global Networking and Architecture
+- <img width="947" height="496" alt="Screenshot 2026-02-06 at 4 10 08 PM" src="https://github.com/user-attachments/assets/507aa7e4-e0f0-45ef-8ead-540dae32162d" />
+- <img width="1398" height="745" alt="Screenshot 2026-02-06 at 4 10 55 PM" src="https://github.com/user-attachments/assets/dc7b4803-857d-4c78-9cdf-a60fbd5089b7" />
+- <img width="1375" height="748" alt="Screenshot 2026-02-06 at 4 12 11 PM" src="https://github.com/user-attachments/assets/abc0a787-bc94-4e2e-88ba-082536448711" />
