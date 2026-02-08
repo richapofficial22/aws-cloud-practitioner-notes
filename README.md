@@ -42,6 +42,14 @@
 - Object Storage : Amazon S3, S3 Storage Classes, S3 Lifecycle
 - <img width="1388" height="808" alt="Screenshot 2026-02-08 at 10 03 00 AM" src="https://github.com/user-attachments/assets/2606a01a-3b2a-4322-a892-b1ec44a8d945" />
 ##
+## Day 7 - 8th Feb 2026
+- Finished Module 7/13
+- Amazon Elastic File System, Amazon FSx
+- AWS Storage Gateway,AWS Elastic Disaster Recovery, Cloud in real life
+- <img width="993" height="467" alt="Screenshot 2026-02-08 at 2 03 39 PM" src="https://github.com/user-attachments/assets/98571c68-02bf-4218-b8e0-95bee788d13a" />
+- <img width="1359" height="658" alt="Screenshot 2026-02-08 at 2 04 38 PM" src="https://github.com/user-attachments/assets/d7daf8ca-b0c8-49ab-99a6-fd6a38f06cb6" />
+- <img width="1365" height="705" alt="Screenshot 2026-02-08 at 2 05 19 PM" src="https://github.com/user-attachments/assets/2bddde84-868c-4990-b772-31e9642948c5" />
+##
 
 
 
