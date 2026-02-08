@@ -43,7 +43,7 @@
 - <img width="1388" height="808" alt="Screenshot 2026-02-08 at 10 03 00 AM" src="https://github.com/user-attachments/assets/2606a01a-3b2a-4322-a892-b1ec44a8d945" />
 ##
 ## Day 7 - 8th Feb 2026
-- Finished Module 7/13
+- Finished Module 7/13 ✅
 - Amazon Elastic File System, Amazon FSx
 - AWS Storage Gateway,AWS Elastic Disaster Recovery, Cloud in real life
 - <img width="993" height="467" alt="Screenshot 2026-02-08 at 2 03 39 PM" src="https://github.com/user-attachments/assets/98571c68-02bf-4218-b8e0-95bee788d13a" />
