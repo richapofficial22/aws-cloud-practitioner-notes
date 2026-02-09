@@ -51,7 +51,7 @@
 - <img width="1365" height="705" alt="Screenshot 2026-02-08 at 2 05 19 PM" src="https://github.com/user-attachments/assets/2bddde84-868c-4990-b772-31e9642948c5" />
 ##
 Day 8 - 9th Feb 2026
-- Finished Module 8/13
+- Finished Module 8/13 ✅
 - Databases
 - Relational DB services, NoSQL DB services, AWS DB Demo, In-memory caching services
 - <img width="937" height="465" alt="Screenshot 2026-02-09 at 4 42 49 PM" src="https://github.com/user-attachments/assets/901775bb-0ed5-420c-b07c-82e67dcd7ce2" />
