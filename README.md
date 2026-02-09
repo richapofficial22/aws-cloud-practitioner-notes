@@ -50,6 +50,26 @@
 - <img width="1359" height="658" alt="Screenshot 2026-02-08 at 2 04 38 PM" src="https://github.com/user-attachments/assets/d7daf8ca-b0c8-49ab-99a6-fd6a38f06cb6" />
 - <img width="1365" height="705" alt="Screenshot 2026-02-08 at 2 05 19 PM" src="https://github.com/user-attachments/assets/2bddde84-868c-4990-b772-31e9642948c5" />
 ##
+Day 8 - 9th Feb 2026
+- Finished Module 8/13
+- Databases
+- Relational DB services, NoSQL DB services, AWS DB Demo, In-memory caching services
+- <img width="937" height="465" alt="Screenshot 2026-02-09 at 4 42 49 PM" src="https://github.com/user-attachments/assets/901775bb-0ed5-420c-b07c-82e67dcd7ce2" />
+- <img width="1372" height="677" alt="Screenshot 2026-02-09 at 4 44 19 PM" src="https://github.com/user-attachments/assets/c2ec13a0-ff20-45d3-8b4f-28a70eb69877" />
+- <img width="1372" height="709" alt="Screenshot 2026-02-09 at 4 44 55 PM" src="https://github.com/user-attachments/assets/5ae30e69-0038-4b2f-a831-2095eb44d24e" />
+##
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
