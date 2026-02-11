@@ -1,5 +1,6 @@
 # aws-cloud-practitioner-notes
 # AWS Cloud Practitioner Journey
+
 ## Day 1 - Started 31st Jan 2026
 - AWS Free Tier signup ✅
 - Cloud Practitioner Essentials course start
@@ -50,7 +51,7 @@
 - <img width="1359" height="658" alt="Screenshot 2026-02-08 at 2 04 38 PM" src="https://github.com/user-attachments/assets/d7daf8ca-b0c8-49ab-99a6-fd6a38f06cb6" />
 - <img width="1365" height="705" alt="Screenshot 2026-02-08 at 2 05 19 PM" src="https://github.com/user-attachments/assets/2bddde84-868c-4990-b772-31e9642948c5" />
 ##
-Day 8 - 9th Feb 2026
+## Day 8 - 9th Feb 2026
 - Finished Module 7/13 ✅
 - Databases
 - Relational DB services, NoSQL DB services, AWS DB Demo, In-memory caching services
@@ -58,13 +59,21 @@ Day 8 - 9th Feb 2026
 - <img width="1372" height="677" alt="Screenshot 2026-02-09 at 4 44 19 PM" src="https://github.com/user-attachments/assets/c2ec13a0-ff20-45d3-8b4f-28a70eb69877" />
 - <img width="1372" height="709" alt="Screenshot 2026-02-09 at 4 44 55 PM" src="https://github.com/user-attachments/assets/5ae30e69-0038-4b2f-a831-2095eb44d24e" />
 ##
-Day 9- 10th Feb 2026
+## Day 9- 10th Feb 2026
 - Finished Module 8/13 ✅
 - AI/ML Data Analytics
 - AI/ML on AWS, Introduction to Generative AI on AWS, Data Pipelines on AWS
 - <img width="933" height="465" alt="Screenshot 2026-02-10 at 5 37 21 PM" src="https://github.com/user-attachments/assets/e5270f00-3ba1-40f8-8990-eeee96af1fc6" />
 - <img width="1367" height="728" alt="Screenshot 2026-02-10 at 5 38 14 PM" src="https://github.com/user-attachments/assets/27142f65-7d80-475e-99d5-dbac91c9ae7f" />
 - <img width="1368" height="707" alt="Screenshot 2026-02-10 at 5 38 55 PM" src="https://github.com/user-attachments/assets/c6b4fb64-3817-4b68-845b-e926a8d48520" />
+##
+## Day 10- 11th Feb 2026
+- Finished Module 9/13 ✅
+- Security
+- AWS Security Controls : Preventing unauthorized access,Protecting network and applications, Detecting and responding to security threats, Securituy Resources
+- <img width="912" height="478" alt="Screenshot 2026-02-11 at 9 16 45 PM" src="https://github.com/user-attachments/assets/9b4d53ea-205b-4d03-b5d8-69890ca8aabb" />
+- <img width="1366" height="654" alt="Screenshot 2026-02-11 at 9 17 23 PM" src="https://github.com/user-attachments/assets/c0af6a32-9122-4477-b5d2-377173f3fb07" />
+- <img width="1363" height="682" alt="Screenshot 2026-02-11 at 9 17 52 PM" src="https://github.com/user-attachments/assets/c05f7e08-e41d-4f35-b6c8-e1a27e5d638c" />
 ##
 
 
