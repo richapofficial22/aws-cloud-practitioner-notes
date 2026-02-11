@@ -43,7 +43,7 @@
 - <img width="1388" height="808" alt="Screenshot 2026-02-08 at 10 03 00 AM" src="https://github.com/user-attachments/assets/2606a01a-3b2a-4322-a892-b1ec44a8d945" />
 ##
 ## Day 7 - 8th Feb 2026
-- Finished Module 7/13 ✅
+- Finished Module 6/13 ✅
 - Amazon Elastic File System, Amazon FSx
 - AWS Storage Gateway,AWS Elastic Disaster Recovery, Cloud in real life
 - <img width="993" height="467" alt="Screenshot 2026-02-08 at 2 03 39 PM" src="https://github.com/user-attachments/assets/98571c68-02bf-4218-b8e0-95bee788d13a" />
@@ -51,15 +51,21 @@
 - <img width="1365" height="705" alt="Screenshot 2026-02-08 at 2 05 19 PM" src="https://github.com/user-attachments/assets/2bddde84-868c-4990-b772-31e9642948c5" />
 ##
 Day 8 - 9th Feb 2026
-- Finished Module 8/13 ✅
+- Finished Module 7/13 ✅
 - Databases
 - Relational DB services, NoSQL DB services, AWS DB Demo, In-memory caching services
 - <img width="937" height="465" alt="Screenshot 2026-02-09 at 4 42 49 PM" src="https://github.com/user-attachments/assets/901775bb-0ed5-420c-b07c-82e67dcd7ce2" />
 - <img width="1372" height="677" alt="Screenshot 2026-02-09 at 4 44 19 PM" src="https://github.com/user-attachments/assets/c2ec13a0-ff20-45d3-8b4f-28a70eb69877" />
 - <img width="1372" height="709" alt="Screenshot 2026-02-09 at 4 44 55 PM" src="https://github.com/user-attachments/assets/5ae30e69-0038-4b2f-a831-2095eb44d24e" />
 ##
-
-
+Day 9- 10th Feb 2026
+- Finished Module 8/13 ✅
+- AI/ML Data Analytics
+- AI/ML on AWS, Introduction to Generative AI on AWS, Data Pipelines on AWS
+- <img width="933" height="465" alt="Screenshot 2026-02-10 at 5 37 21 PM" src="https://github.com/user-attachments/assets/e5270f00-3ba1-40f8-8990-eeee96af1fc6" />
+- <img width="1367" height="728" alt="Screenshot 2026-02-10 at 5 38 14 PM" src="https://github.com/user-attachments/assets/27142f65-7d80-475e-99d5-dbac91c9ae7f" />
+- <img width="1368" height="707" alt="Screenshot 2026-02-10 at 5 38 55 PM" src="https://github.com/user-attachments/assets/c6b4fb64-3817-4b68-845b-e926a8d48520" />
+##
 
 
 
