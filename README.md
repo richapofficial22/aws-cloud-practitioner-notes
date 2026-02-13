@@ -82,7 +82,15 @@
 - <img width="934" height="462" alt="Screenshot 2026-02-12 at 6 01 15 PM" src="https://github.com/user-attachments/assets/e0a0ae29-433d-47c9-9654-9eff36d8a8b3" />
 - <img width="1357" height="682" alt="Screenshot 2026-02-12 at 6 02 05 PM" src="https://github.com/user-attachments/assets/12c55385-8c97-4ede-b422-94cf0466e857" />
 - <img width="1363" height="682" alt="Screenshot 2026-02-12 at 6 02 36 PM" src="https://github.com/user-attachments/assets/106eb9c2-2260-484e-9016-7684dd9a81d0" />
-
+##
+## Day 12- 13th Feb 2026
+- Finished Module 11/13 ✅
+- Pricing & Support
+- AWS Pricing Concepts and Billing services, AWS Support Plans, AWS Marketplace, AWS Partners, Cost Optimization
+- <img width="937" height="500" alt="Screenshot 2026-02-13 at 8 39 06 PM" src="https://github.com/user-attachments/assets/0546aca4-7104-4761-8b57-3f27cbf11566" />
+- <img width="1366" height="710" alt="Screenshot 2026-02-13 at 8 39 53 PM" src="https://github.com/user-attachments/assets/d87576b6-c95c-4f24-b05f-6a2f50c91c29" />
+- <img width="1379" height="691" alt="Screenshot 2026-02-13 at 8 40 34 PM" src="https://github.com/user-attachments/assets/d7a63d9e-1608-4e49-97b5-92f625017f2b" />
+## 
 
 
 
