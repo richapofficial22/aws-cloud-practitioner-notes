@@ -91,7 +91,14 @@
 - <img width="1366" height="710" alt="Screenshot 2026-02-13 at 8 39 53 PM" src="https://github.com/user-attachments/assets/d87576b6-c95c-4f24-b05f-6a2f50c91c29" />
 - <img width="1379" height="691" alt="Screenshot 2026-02-13 at 8 40 34 PM" src="https://github.com/user-attachments/assets/d7a63d9e-1608-4e49-97b5-92f625017f2b" />
 ## 
-
+## Day 13- 14th Feb 2026
+- Finished Module 12/13 ✅
+- Migrating to the AWS Cloud
+- Migrating frameworks and strategies, Migration Services and Tools, Migrating Databases to the AWS Cloud, Migrating Data to the cloud
+- <img width="909" height="486" alt="Screenshot 2026-02-14 at 7 55 45 PM" src="https://github.com/user-attachments/assets/8a2a6305-c237-4849-b833-0a0c3ca7022a" />
+- <img width="1372" height="539" alt="Screenshot 2026-02-14 at 7 56 24 PM" src="https://github.com/user-attachments/assets/6a303ae2-5454-4e43-ad2f-d2aa86d9de21" />
+- <img width="1371" height="687" alt="Screenshot 2026-02-14 at 7 56 49 PM" src="https://github.com/user-attachments/assets/dea6ad6d-9fd4-44ae-87f3-d142c13c5aed" />
+##
 
 
 
