@@ -99,7 +99,16 @@
 - <img width="1372" height="539" alt="Screenshot 2026-02-14 at 7 56 24 PM" src="https://github.com/user-attachments/assets/6a303ae2-5454-4e43-ad2f-d2aa86d9de21" />
 - <img width="1371" height="687" alt="Screenshot 2026-02-14 at 7 56 49 PM" src="https://github.com/user-attachments/assets/dea6ad6d-9fd4-44ae-87f3-d142c13c5aed" />
 ##
-
+- Finished Module 13/13 ✅
+- Well Architected Solutions
+- AWS Specialized Services, AWS Well Architectured Frameworks, Specialized Use Cases
+- <img width="957" height="499" alt="Screenshot 2026-02-14 at 8 49 57 PM" src="https://github.com/user-attachments/assets/6008a255-5d01-4a6f-ae6a-27c17f97dd51" />
+- <img width="1363" height="562" alt="Screenshot 2026-02-14 at 8 50 43 PM" src="https://github.com/user-attachments/assets/fe2dc37c-6122-4b4b-b555-717b1bc3999d" />
+- <img width="1374" height="690" alt="Screenshot 2026-02-14 at 8 51 38 PM" src="https://github.com/user-attachments/assets/6552234b-55da-4dff-b5fe-70a93ac13828" />
+####
+# Certificate of Completion- AWS Cloud Practitioner Essentials
+- <img width="1109" height="859" alt="Screenshot 2026-02-14 at 9 06 18 PM" src="https://github.com/user-attachments/assets/b29064f6-b9ef-4035-bf26-0714be9d3dcb" />
+##
 
 
 
